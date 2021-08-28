@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tooyamad.github.io/csb-3t76f/static/css/main.4440e346.chunk.css",
+    "main.js": "https://tooyamad.github.io/csb-3t76f/static/js/main.18e35513.chunk.js",
+    "main.js.map": "https://tooyamad.github.io/csb-3t76f/static/js/main.18e35513.chunk.js.map",
+    "runtime-main.js": "https://tooyamad.github.io/csb-3t76f/static/js/runtime-main.d429ac45.js",
+    "runtime-main.js.map": "https://tooyamad.github.io/csb-3t76f/static/js/runtime-main.d429ac45.js.map",
+    "static/js/2.4f4911e8.chunk.js": "https://tooyamad.github.io/csb-3t76f/static/js/2.4f4911e8.chunk.js",
+    "static/js/2.4f4911e8.chunk.js.map": "https://tooyamad.github.io/csb-3t76f/static/js/2.4f4911e8.chunk.js.map",
+    "index.html": "https://tooyamad.github.io/csb-3t76f/index.html",
+    "static/css/main.4440e346.chunk.css.map": "https://tooyamad.github.io/csb-3t76f/static/css/main.4440e346.chunk.css.map",
+    "static/js/2.4f4911e8.chunk.js.LICENSE.txt": "https://tooyamad.github.io/csb-3t76f/static/js/2.4f4911e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d429ac45.js",
+    "static/js/2.4f4911e8.chunk.js",
+    "static/css/main.4440e346.chunk.css",
+    "static/js/main.18e35513.chunk.js"
+  ]
+}
